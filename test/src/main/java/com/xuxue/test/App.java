@@ -10,5 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("测试分支是不是能使用");
+        
+        System.out.println("测试 远程commit");
     }
 }
